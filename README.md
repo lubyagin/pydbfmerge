@@ -1,5 +1,8 @@
 # pydbfmerge
-Merge DBF-files, console app
+Merge DBF-files, console app;
+
+Программа объединения произвольного кол-ва DBF файлов в одинаковой заголовочной структурой.
+Написана по той причине, что в Microsoft Excel 2007 и старше - нет сохранения в формат DBF IV (такая возможность была в Excel 2003).
 
 ```
 #!/usr/bin/python

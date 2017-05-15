@@ -7,7 +7,7 @@
 
 from sys import argv,exit
 
-if len(argv) < 3: exit()
+if len(argv) < 4: exit()
 
 from dbfpy import dbf
 # dbfpy-2.3.1.win32.exe (2015)
